@@ -14,6 +14,8 @@ It fetches and displays the current temperature, wind speed, and a weather descr
 ✅ Stylish **dark-themed UI** with modern design  
 ✅ Handles errors with user-friendly messages
 
+![Image](https://github.com/user-attachments/assets/6cd71e3c-5d87-46fc-a071-ec5842d61477)
+
 
 ## 🛠️ Technologies Used
 
